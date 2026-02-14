@@ -1,4 +1,3 @@
-Gemini said
 iPhone Sales Analysis
 This project analyzes Apple iPhone sales data using Python to identify market trends and consumer preferences on Flipkart.
 
